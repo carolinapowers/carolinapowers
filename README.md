@@ -7,23 +7,14 @@
 > **Kindness leaves fingerprints on code.**  
 > The best code I have ever read was also the kindest.
 
-Welcome! I’m Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and collaboration—leaving every project, process, and team better than I found it.
+Welcome! I’m Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and collaboration - leaving every project, process, and team better than I found it.
 
-## 💡 About Me
+## 🌱 What Drives Me
 
-- **Current Role:** Software Development Content Author (Contract) @ Pluralsight
-- **Most Relevant:** Software Engineer @ Pluralsight (7 yrs 10 mos)
-- **Recent:** Software Engineer @ Articulate
-- **Portfolio:** [carolinapowers-portfolio.vercel.app](https://carolinapowers-portfolio.vercel.app/)
-- **Tech Focus:** TypeScript, JavaScript, React, Node.js, Vite, Vitest, Cypress, AI Agentic Coding Tools, Developer Tooling, Design Systems, Monorepos, Microservices, Event-Driven Architecture
-- **Strengths:**  
-  - Writing maintainable, well-tested code  
-  - Improving team workflows  
-  - Mentoring and knowledge sharing  
-  - Driving developer experience and documentation
-- **Values:** Psychological safety, teamwork, continuous learning, and human-centered engineering.
-
-I'm currently open to new opportunities where I can shape thoughtful developer experiences and contribute to meaningful products.
+- Building inclusive, psychologically safe teams
+- Advocating for thoughtful, clean, and maintainable code
+- Creating learning experiences that empower others
+- Continuous growth - both as a developer and as a human
 
 ---
 
@@ -41,8 +32,6 @@ I'm currently open to new opportunities where I can shape thoughtful developer e
 ---
 
 ## 🚀 Projects & Highlights
-
-![Pinned Repos](image1) <!-- Reference to the GitHub pins screenshot -->
 
 - **[react-testing-code-labs](https://github.com/carolinapowers/react-testing-code-labs):** React Testing with Jest and React Testing Library
 - **[portfolio](https://github.com/carolinapowers/portfolio):** [Quick-up portfolio for Buffer application](https://carolinapowers-portfolio.vercel.app/)
@@ -79,15 +68,6 @@ Here are a few words from those who’ve worked with me:
 
 ---
 
-## 🌱 What Drives Me
-
-- Building inclusive, psychologically safe teams
-- Advocating for thoughtful, clean, and maintainable code
-- Creating learning experiences that empower others
-- Continuous growth—both as a developer and as a human
-
----
-
 ## 📫 Connect with Me
 
 - **LinkedIn:** [carolina-p-powers](https://www.linkedin.com/in/carolina-p-powers/)
@@ -99,4 +79,4 @@ Here are a few words from those who’ve worked with me:
 
 ---
 
-🌎 Based in Brazil & the U.S. | Always up for a good book, a deep conversation, and a new challenge.
+🌎 Based in Brazil & the U.S.
