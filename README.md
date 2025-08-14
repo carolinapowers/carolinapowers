@@ -75,7 +75,7 @@ Here are a few words from those who’ve worked with me:
 
 ---
 
-> **Empathy is a product engineer’s greatest strength. When kindness shapes the way we work, the result is more than clean code—it’s a better product, a stronger team, and a place where people can truly thrive.**
+> **Empathy is a product engineer’s greatest strength. When kindness shapes the way we work, the result is more than clean code - it’s a better product, a stronger team, and a place where people can truly thrive.**
 
 ---
 
