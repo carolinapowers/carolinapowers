@@ -22,9 +22,9 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 
 - **Languages:** JavaScript (ES6+), TypeScript, SQL, GraphQL
 - **Frontend:** React, Vue.js, Vite, Storybook, Design Systems
-- **Backend:** Node.js, Express, REST, GraphQL, PostgreSQL, Knex.js, Microservices
-- **Testing:** Jest, React Testing Library, Vitest, Cypress (recent experience), Enzyme
-- **Tooling:** ESLint (custom rules), Docker, CI/CD, Monorepos (Turborepo, Nx)
+- **Backend:** Node.js, Nest.js, Express, REST, GraphQL, PostgreSQL, Knex.js, Microservices
+- **Testing:** Jest, React Testing Library, Vitest, Cypress (recent experience), Enzyme, Mocha
+- **Tooling:** ESLint (custom rules), Docker, CI/CD, Monorepos (Rush, Yarn Workspaces)
 - **Architecture:** Event-Driven, Scalable Solutions, API Design
 - **AI & Agentic Coding:** Hands-on with AI-powered engineering workflows and agentic coding tools
 - **Collaboration:** Technical Documentation, Mentorship, Cross-team Communication
