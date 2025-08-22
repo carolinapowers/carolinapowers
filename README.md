@@ -61,4 +61,4 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 
 ---
 
-🌎 Based in Brazil & the U.S.
+🌎 Born in Brazil & based in the U.S.A
