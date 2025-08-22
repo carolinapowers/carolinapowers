@@ -50,24 +50,6 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 
 ---
 
-## 🌟 What Others Say
-
-Here are a few words from those who’ve worked with me:
-
-> **“Carolina brought a rare blend of curiosity, technical skill, and a strong sense of teamwork. Her enthusiasm for digging into the root of a problem made her a stronger engineer, and she consistently shared her learnings with the team.”**  
-> – Margo Schaedel, Software Engineer @ Articulate
-
-> **“She has a rare talent for writing clean, thoughtful code while creating a collaborative environment that invites ideas and encourages learning.”**  
-> – Noelle Burton, BYU @ Podium
-
-> **“Carolina is exceptional at cross-team collaboration and navigating complex projects with many moving parts and unknowns. She consistently sets others up for success through thoughtful documentation, streamlined tooling, and a strong understanding of developer experience.”**  
-> – Kelly Furness, Software Engineering Manager @ Articulate
-
-> **“Carolina’s dedication, kindness, and passion for her work made our collaboration both productive and enjoyable. She played a crucial role in key initiatives, such as implementing hands-on projects and integrating new experiences into our platform.”**  
-> – Merilee Benson, Lead Product Designer @ BILL
-
----
-
 ## 📫 Connect with Me
 
 - **LinkedIn:** [carolina-p-powers](https://www.linkedin.com/in/carolina-p-powers/)
