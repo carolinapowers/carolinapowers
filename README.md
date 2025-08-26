@@ -39,6 +39,8 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 - **[pluralsight-typescript-structure-code-lab](https://github.com/carolinapowers/pluralsight-typescript-structure-code-lab):** TypeScript barrel files and module re-exports
 - **[design-system](https://github.com/carolinapowers/design-system):** Building a design system inspired by great team culture
 - **[pluralsight-typescript-design-system-lab](https://github.com/carolinapowers/pluralsight-typescript-design-system-lab):** Hands-on code lab for TypeScript and design systems
+- **[code-craft](https://github.com/carolinapowers/code-craft):** A platform to teach Coding & AI as an after-school club. Made with Bolt for its Coding Challenge.
+- **[gnow](https://github.com/carolinapowers/gnow):** Quick Prototype for GolfNow.
 
 **Featured Work:**  
 - Architected Pluralsight’s integrated learning platform and multi-content player  
