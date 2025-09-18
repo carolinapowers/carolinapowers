@@ -33,8 +33,8 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 
 ## 🚀 Projects & Highlights
 
+- **[portfolio](https://github.com/carolinapowers/portfolio):** [Quick-up portfolio for job application](https://carolinapowers-portfolio.vercel.app/)
 - **[react-testing-code-labs](https://github.com/carolinapowers/react-testing-code-labs):** React Testing with Jest and React Testing Library
-- **[portfolio](https://github.com/carolinapowers/portfolio):** [Quick-up portfolio for Buffer application](https://carolinapowers-portfolio.vercel.app/)
 - **[aipackr](https://github.com/carolinapowers/aipackr):** AI-powered travel packing assistant
 - **[pluralsight-typescript-structure-code-lab](https://github.com/carolinapowers/pluralsight-typescript-structure-code-lab):** TypeScript barrel files and module re-exports
 - **[design-system](https://github.com/carolinapowers/design-system):** Building a design system inspired by great team culture
