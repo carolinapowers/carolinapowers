@@ -34,6 +34,7 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 ## 🚀 Projects & Highlights
 
 - **[portfolio](https://github.com/carolinapowers/portfolio):** [Quick-up portfolio for job application](https://carolinapowers-portfolio.vercel.app/)
+- **[vue-tdd-automation (npm package, WIP)](https://www.npmjs.com/package/@carolinappowers/vue-tdd-automation):** Automate the workflow for Test-Driven Development (TDD) in Vue projects. *Currently in active development.*
 - **[react-testing-code-labs](https://github.com/carolinapowers/react-testing-code-labs):** React Testing with Jest and React Testing Library
 - **[aipackr](https://github.com/carolinapowers/aipackr):** AI-powered travel packing assistant
 - **[pluralsight-typescript-structure-code-lab](https://github.com/carolinapowers/pluralsight-typescript-structure-code-lab):** TypeScript barrel files and module re-exports
