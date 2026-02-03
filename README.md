@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Carolina Powers
+# 👋 Hi, I'm Carolina Powers
 
 ### Innovative Software Engineer | Full-Stack JavaScript | Developer Experience Advocate
 
@@ -7,7 +7,7 @@
 > **Kindness leaves fingerprints on code.**  
 > The best code I have ever read was also the kindest.
 
-Welcome! I’m Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and collaboration - leaving every project, process, and team better than I found it.
+Welcome! I'm Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and [...] 
 
 ## 🌱 What Drives Me
 
@@ -34,7 +34,7 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 ## 🚀 Projects & Highlights
 
 - **[portfolio](https://github.com/carolinapowers/portfolio):** [Quick-up portfolio for job application](https://carolinapowers-portfolio.vercel.app/)
-- **[vue-tdd-automation (npm package, WIP)](https://www.npmjs.com/package/@carolinappowers/vue-tdd-automation):** Automate the workflow for Test-Driven Development (TDD) in Vue projects. *Currently in active development.*
+- **[vue-tdd-automation (npm package, WIP)](https://www.npmjs.com/package/@carolinappowers/vue-tdd-automation):** Automate the workflow for Test-Driven Development (TDD) in Vue projects. *Currentl[...]  
 - **[react-testing-code-labs](https://github.com/carolinapowers/react-testing-code-labs):** React Testing with Jest and React Testing Library
 - **[aipackr](https://github.com/carolinapowers/aipackr):** AI-powered travel packing assistant
 - **[pluralsight-typescript-structure-code-lab](https://github.com/carolinapowers/pluralsight-typescript-structure-code-lab):** TypeScript barrel files and module re-exports
@@ -42,9 +42,12 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 - **[pluralsight-typescript-design-system-lab](https://github.com/carolinapowers/pluralsight-typescript-design-system-lab):** Hands-on code lab for TypeScript and design systems
 - **[code-craft](https://github.com/carolinapowers/code-craft):** A platform to teach Coding & AI as an after-school club. Made with Bolt for its Coding Challenge.
 - **[gnow](https://github.com/carolinapowers/gnow):** Quick Prototype for GolfNow.
+- **[code-lab-mcp-server](https://github.com/carolinapowers/code-lab-mcp-server):** Model Context Protocol (MCP) server for creating Pluralsight Code Labs with automated workflows, testing infrastructure, and quality standards. Supports multiple programming languages including TypeScript, JavaScript, and C#.
+- **[PickleBrasil](https://github.com/carolinapowers/PickleBrasil):** The Complete Platform for Organizing and Discovering Pickleball Games in Brazil. A comprehensive social platform that connects pickleball players across Brazil for finding courts, organizing games, and connecting with other players.
+- **[QuestAied](https://github.com/carolinapowers/QuestAied):** A gamified task management application designed specifically for children ages 10-13 with ADHD. Transform daily chores and tasks into engaging quests with rewards, XP progression, and streaks.
 
 **Featured Work:**  
-- Architected Pluralsight’s integrated learning platform and multi-content player  
+- Architected Pluralsight's integrated learning platform and multi-content player  
 - Led migration projects improving testing reliability and developer workflows  
 - Designed custom ESLint rules for codebase best practices  
 - Developed hands-on labs and interactive content for Pluralsight  
@@ -60,7 +63,7 @@ Welcome! I’m Carolina, a passionate engineer with 10+ years of experience buil
 
 ---
 
-> **Empathy is a product engineer’s greatest strength. When kindness shapes the way we work, the result is more than clean code - it’s a better product, a stronger team, and a place where people can truly thrive.**
+> **Empathy is a product engineer's greatest strength. When kindness shapes the way we work, the result is more than clean code - it's a better product, a stronger team, and a place where peop[...]  
 
 ---
 
