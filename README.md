@@ -7,7 +7,7 @@
 > **Kindness leaves fingerprints on code.**  
 > The best code I have ever read was also the kindest.
 
-Welcome! I'm Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and [...] 
+Welcome! I'm Carolina, a passionate engineer with 10+ years of experience building scalable, user-focused products and empowering teams. I thrive at the intersection of technology, empathy, and collaboration - leaving every project, process, and team better than I found it. 
 
 ## 🌱 What Drives Me
 
